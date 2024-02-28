@@ -9,7 +9,7 @@ import time
 pyautogui.PAUSE = 1
 
 username = 'U708047'
-password = 'Ka6pXgUj'
+password = '###'
 
 text_startRemoteWork = 'テレワーク始めます。'
 
